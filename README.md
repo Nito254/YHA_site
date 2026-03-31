@@ -72,7 +72,7 @@ Throughout the site you will find clearly labelled placeholders:
 ## ✏️ Key Things to Update Before Going Live
 
 1. Replace all `[Placeholder]` address, phone, and email fields with real contact info
-2. Replace `[INSERT GOOGLE FORM LINK]` with your actual donation-in-kind Google Form URL
+2. Replace `[DONATION FORM]` contact details with actual contact info.
 3. Drop real photos into image placeholders (just swap the `<div class="img-ph">` for an `<img>` tag)
 4. Add real team member names and photos in `about.html`
 5. Update the payment details in `script.js` → `paymentDetails` object (M-Pesa paybill, PayPal email, bank details)
