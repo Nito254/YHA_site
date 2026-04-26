@@ -3,7 +3,7 @@
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 yha-website/
@@ -20,7 +20,7 @@ yha-website/
 
 ---
 
-## 🚀 How to Run in VS Code (Zero Installation Required)
+##  How to Run in VS Code (Zero Installation Required)
 
 ### Option A — Quickest (Live Server Extension)
 1. Open VS Code
@@ -38,7 +38,7 @@ yha-website/
 
 ---
 
-## 📄 Pages
+##  Pages
 
 | File | Page | Description |
 |------|------|-------------|
@@ -49,7 +49,7 @@ yha-website/
 
 ---
 
-## 🖼️ Placeholders to Replace
+## Placeholders to Replace
 
 Throughout the site you will find clearly labelled placeholders:
 
@@ -60,7 +60,7 @@ Throughout the site you will find clearly labelled placeholders:
 
 ---
 
-## 🎨 Design Notes
+##  Design Notes
 
 - **Colour palette:** Green (#1a7a3c primary) and white only, as per the YHA logo
 - **Fonts:** Cormorant Garamond (display/headings) + Outfit (body) — loaded from Google Fonts
@@ -69,7 +69,7 @@ Throughout the site you will find clearly labelled placeholders:
 
 ---
 
-## ✏️ Key Things to Update Before Going Live
+##  Key Things to Update Before Going Live
 
 1. Replace all `[Placeholder]` address, phone, and email fields with real contact info
 2. Replace `[DONATION FORM]` contact details with actual contact info.
@@ -80,7 +80,7 @@ Throughout the site you will find clearly labelled placeholders:
 
 ---
 
-## 💳 Payment Modal (Donate Page)
+## Payment Modal (Donate Page)
 
 The three payment method buttons open a modal popup with instructions. The content is in `script.js` in the `paymentDetails` object. Update:
 - M-Pesa **Paybill Number** and **Account Name**
